@@ -11,3 +11,5 @@ The techniques used in here have been inspired and adapted from the -[fast.ai ma
 Use of regression model from scikit learn library is used here. The RandomForestRegressior is used to predict the sales price.
 - [Pandas](https://pandas.pydata.org/)
 - [Numpy](https://numpy.org/)
+- [SKlearn](https://scikit-learn.org/stable/)
+These are some libraries you need to use while working on this project
