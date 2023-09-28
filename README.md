@@ -9,5 +9,5 @@ The data and evaluation metric we'll be using (root mean square log error or RMS
 The techniques used in here have been inspired and adapted from the -[fast.ai machine learning course.](https://course18.fast.ai/ml)
 ## Code 
 Use of regression model from scikit learn library is used here. The RandomForestRegressior is used to predict the sales price.
-- Pandas[https://pandas.pydata.org/]
-- Numpy[https://numpy.org/]
+- [Pandas](https://pandas.pydata.org/)
+- [Numpy](https://numpy.org/)
